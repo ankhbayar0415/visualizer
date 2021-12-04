@@ -1,0 +1,44 @@
+.logo {
+  color: rgb(208, 210, 212);
+  margin-right: 35px;
+}
+.btn {
+  margin-top: 4px;
+  margin-right: 20px;
+  background-color: black;
+  border: 2px white;
+  border-radius: 0px;
+  width: fit-content;
+  padding: 5px 5px;
+}
+.btn:hover {
+  background-color: white;
+  color: black;
+}
+
+.dropdown-menu {
+  margin-right: 35px;
+  background-color: #000000;
+}
+
+.dropdown-item {
+  color: white;
+}
+
+.navbar {
+  border: white;
+  background-color: black;
+}
+
+.image{
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  border: 2px solid white;
+}
+
+.legend{
+  text-align: center;
+  color: white;
+  margin: 5px;
+}
